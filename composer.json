@@ -1,0 +1,14 @@
+{
+    "name": "cristianaraya/lanco-distribuidores",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Cristian Araya",
+            "email": "cristian0789@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {"Lanco\\": "inc/"}
+    },
+    "require": {}
+}
